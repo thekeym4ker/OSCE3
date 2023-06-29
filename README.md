@@ -1,4 +1,4 @@
-# OSCE3 Study Guide and 
+# My OSCE3 Study Guide 
 Welcome to my OSCE3 Study Guide repository! This study guide is designed to support aspiring cybersecurity professionals in their preparation for the Offensive Security Certified Expert 3 (OSCE3) certification. This repo covers essential topics such as advanced web exploit development, reverse engineering, and network-level attacks. Whether you're a seasoned professional or just starting your journey in offensive security, this repository provides a structured approach to completing the OSCE3 certification.
 
 ## OSWE
