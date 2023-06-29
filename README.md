@@ -16,6 +16,24 @@ Tools and Methodologies
 
 Difficulty - You need to perform the source code review directly on the machine provided by OffSec. Reading and analyzing the code was frustrating because of the delayed responses of the remote machine and required significant concentration. 
 
+Content
+- Session Hijacking and Riding Attacks
+- Blind SQL injections
+- Bypassing File Upload Restrictions
+- Bypassing File Extension Filters
+- Type Juggling: Attacking Loose Comparisons
+- PostgreSQL Extension and User Defined Functions
+- Bypassing REGEX restrictions
+- Bypassing Character Restrictions
+- UDF Reverse Shells
+- PostgreSQL Large Objects Revshell
+- Deserialization Attack
+- DOM-based cross site scripting (black box)
+- Server-side Template Injection
+- Weak random token generation
+- XML External Entity Injection
+- RCE via database Functions
+- OS Command Injection via WebSockets (BlackBox)
 
 ## OSEP
 TODO
